@@ -1,2 +1,2 @@
 # Web development
-This is my fitrst repository.
+This is my updated repository.
